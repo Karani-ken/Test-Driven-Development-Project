@@ -1,0 +1,14 @@
+D:\Ken's\DeskBooker.Core\bin\Debug\net6.0\DeskBooker.Core.exe
+D:\Ken's\DeskBooker.Core\bin\Debug\net6.0\DeskBooker.Core.deps.json
+D:\Ken's\DeskBooker.Core\bin\Debug\net6.0\DeskBooker.Core.runtimeconfig.json
+D:\Ken's\DeskBooker.Core\bin\Debug\net6.0\DeskBooker.Core.dll
+D:\Ken's\DeskBooker.Core\bin\Debug\net6.0\DeskBooker.Core.pdb
+D:\Ken's\DeskBooker.Core\obj\Debug\net6.0\DeskBooker.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ken's\DeskBooker.Core\obj\Debug\net6.0\DeskBooker.Core.AssemblyInfoInputs.cache
+D:\Ken's\DeskBooker.Core\obj\Debug\net6.0\DeskBooker.Core.AssemblyInfo.cs
+D:\Ken's\DeskBooker.Core\obj\Debug\net6.0\DeskBooker.Core.csproj.CoreCompileInputs.cache
+D:\Ken's\DeskBooker.Core\obj\Debug\net6.0\DeskBooker.Core.dll
+D:\Ken's\DeskBooker.Core\obj\Debug\net6.0\refint\DeskBooker.Core.dll
+D:\Ken's\DeskBooker.Core\obj\Debug\net6.0\DeskBooker.Core.pdb
+D:\Ken's\DeskBooker.Core\obj\Debug\net6.0\DeskBooker.Core.genruntimeconfig.cache
+D:\Ken's\DeskBooker.Core\obj\Debug\net6.0\ref\DeskBooker.Core.dll
